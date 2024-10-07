@@ -96,12 +96,4 @@ Image: [Scrum primer](http://www.scrumprimer.org/overview).
 - [Mastering GitHub markdown](https://guides.github.com/features/mastering-markdown/)
 - [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 
-## Change log
 
-### v1.0.0
-
-- Added documentation for issues, labels and milestones.
-
-### v1.0.1
-
-- Added summary
