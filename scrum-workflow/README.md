@@ -1,4 +1,4 @@
-<img src="https://cloud.githubusercontent.com/assets/1859381/5397698/9972fe22-815c-11e4-8be6-21e1d0d05849.jpg" alt="codecat" align="right">
+<img src="https://i.imgflip.com/no2ej.jpg>
 
 # GitHub scrum workflow
 
