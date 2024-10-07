@@ -1,4 +1,3 @@
-<img src="https://i.imgflip.com/no2ej.jpg>
 
 # GitHub scrum workflow
 
