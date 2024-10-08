@@ -1,9 +1,9 @@
+![Good stances of Scrum Master_2](https://github.com/user-attachments/assets/56b815f4-ed6f-4337-a004-81db0910a057)
 
 # GitHub scrum workflow
 
 Turn any GitHub repository into a simple but powerful agile work environment.
 
-**Free**, **simple** and **fast** so you can focus on the actual coding!
 
 **Summary:**
 
